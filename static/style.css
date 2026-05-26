@@ -1,0 +1,21 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.card {
+    border-radius: 15px;
+    border: none;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.summary-box {
+    white-space: pre-line;
+    line-height: 1.7;
+}
